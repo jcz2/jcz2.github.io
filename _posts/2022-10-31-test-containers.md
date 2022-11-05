@@ -2,7 +2,7 @@
 layout: post
 title: 'Writing tests with testcontainers-scala'
 date: 2022-10-31 16:57:22 +0100
-categories: jekyll update
+tags: scala testing containers
 ---
 
 Let's say we want to write API tests for a backend service.
