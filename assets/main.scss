@@ -1,0 +1,32 @@
+---
+---
+
+@import 'minima';
+
+.rouge-table {
+  border: none;
+  margin-bottom: 0;
+}
+
+.rouge-gutter {
+  width: 0%;
+  border: none;
+  padding: 0;
+  pre {
+    border: none;
+    margin-bottom: 0;
+    padding: 0;
+  }
+}
+
+.rouge-code {
+  padding: 0;
+  border: none;
+
+  pre {
+    border: none;
+    margin-bottom: 0;
+    padding: 0;
+    padding-left: 8px;
+  }
+}

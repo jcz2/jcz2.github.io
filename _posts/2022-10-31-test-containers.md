@@ -21,7 +21,7 @@ by exposing `ForEachTestContainer` and `ForAllTestContainer` traits.
 Let's see how we can use it to test our service.
 The app that we will test is a simple todo service written with [http4s](https://http4s.org/) that exposes three endpoints to list, create and delete todos.
 
-```
+```scala
 GET /todos
 POST /todos
 DELETE /todos/:id
