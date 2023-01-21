@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33mm"
+   height="20.371216mm"
+   viewBox="0 0 33 20.371216"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="drawing1.svg"
+   inkscape:export-xdpi="100.9"
+   inkscape:export-ydpi="100.9"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3902433"
+     inkscape:cx="334.83349"
+     inkscape:cy="749.86877"
+     inkscape:window-width="1792"
+     inkscape:window-height="1067"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12177"
+       empspacing="1"
+       originx="7.3436627e-18"
+       spacingx="0.01"
+       units="mm"
+       spacingy="0.01" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="88.473724"
+       y="66.894768"
+       width="616.4389"
+       height="107.17549"
+       id="rect39811" />
+    <rect
+       x="88.473724"
+       y="66.894768"
+       width="616.4389"
+       height="107.17549"
+       id="rect39813" />
+    <rect
+       x="88.473724"
+       y="66.894768"
+       width="616.4389"
+       height="107.17549"
+       id="rect39815" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-100.39618,-218.56933)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,77.645862,201.8587)"
+       id="text39799"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0855px;line-height:0;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect39811);display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="./text38036.svg"
+       inkscape:export-xdpi="100.9"
+       inkscape:export-ydpi="100.9"><tspan
+         x="88.474609"
+         y="77.723414"
+         id="tspan40794"><tspan
+           style="font-size:18.6667px;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';opacity:1"
+           id="tspan40792">00111101</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,77.645862,207.67955)"
+       id="text39803"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0855px;line-height:0;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect39813);display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="88.474609"
+         y="77.723414"
+         id="tspan40798"><tspan
+           style="font-size:18.6667px;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';opacity:1"
+           id="tspan40796">11110111</tspan></tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.405242;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.39622,231.57445 32.99993,-0.006"
+       id="path39805" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,77.645862,218.26289)"
+       id="text39809"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.0855px;line-height:0;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect39815);display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="88.474609"
+         y="77.723414"
+         id="tspan40802"><tspan
+           style="font-size:18.6667px;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';opacity:1"
+           id="tspan40800">00110101</tspan></tspan></text>
+  </g>
+</svg>
