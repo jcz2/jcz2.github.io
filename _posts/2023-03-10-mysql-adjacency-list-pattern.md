@@ -196,13 +196,6 @@ order by level asc;
 |    7 | steampunk           |         4 |     4 |
 +------+---------------------+-----------+-------+
 ```
-<!-- ## Aggregating data in a tree
-Let's look at another example of comapny hierarchy.
-Each employee has a manager they are reporting to and in turn
-that manager has reports to someone at a higher position in the company.
-
-<find the person who has been employeed for the longest in a subtree>
-<find the total employment in years for a given subtree> -->
 ### Count number of children for each node
 To count the number of direct subgenres for each node
 we join each node with it's child nodes and then count
