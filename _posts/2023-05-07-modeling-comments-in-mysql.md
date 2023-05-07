@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modelling comments in MySQL
+title: Modeling comments in MySQL
 date: 2023-05-07 18:00 +0100
 ---
 Let’s say we want to model a simplified version of youtube comments.\
@@ -151,7 +151,7 @@ If we `explain` the query:
 ```
 We can see that the `parent_id` index is being used to select the replies and then MySQL sorts them.
 
-#### Infinte scrolling
+#### Infinite scrolling
 To support infinite scrolling we will use the seek method [[1]](#seek_method).
 This method allows us to fetch the next set of comments efficiently.
 Basically what we do is take the id of the last displayed comment and
